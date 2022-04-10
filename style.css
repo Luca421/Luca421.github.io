@@ -1,0 +1,54 @@
+html {
+  background-color: lightblue;
+}
+
+#menu li {
+  display: inline;
+  float: left;
+  border: 2px solid black;
+}
+
+#menu {
+  background-color: darkblue;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+
+#menu a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+}
+
+#menu a:hover {
+  color: black;
+  background-color: white;
+  font-size: 23px;
+}
+
+.table_1 {
+  color: red;
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+.table_2 {
+  color: green;
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+#links_2 {
+  text-align: left;
+  color: blue;
+}
+
+#links {
+  text-align: left;
+}
+
+body {
+  text-align: center;
+}
